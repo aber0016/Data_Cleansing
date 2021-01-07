@@ -22,8 +22,9 @@ It has 12 columns, rangeing from:
 - latest_customer_review 
 - is_happy_customer
 
-This order data is contained in three csv files:
+The cleansed order data is saved in three csv files:
 
-- dirty_data.csv : carries rows with at most one anomaly in it.
-- missing_data.csv : contains rows with one or more missing values.
-- outlier_data.csv : contains data with outliers in them.
+- dirty_data_solution.csv 
+- missing_data_solution.csv 
+- outlier_data_solution.csv
+
